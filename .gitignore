@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+
+# Downloaded media and unfinished downloads
+*.mp4
+*.mkv
+*.webm
+*.mp3
+*.m4a
+*.wav
+*.part
+*.ytdl

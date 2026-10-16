@@ -1,0 +1,4 @@
+# yt-dlp does the downloading; "[default]" adds the YouTube JavaScript challenge solver (yt-dlp-ejs).
+yt-dlp[default]>=2026.8.19
+# A bundled ffmpeg, used to merge video + audio when ffmpeg is not installed on the PATH.
+imageio-ffmpeg>=0.6.0
